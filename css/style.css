@@ -1,0 +1,67 @@
+body, html{
+  margin:0px;
+  padding:0px;
+}
+
+body{
+  font-family:'Helvetica', Arial, sans-serif;
+  color:#fff;
+}
+
+.vidThumb{
+  cursor:pointer;
+	list-style:none;
+	overflow:hidden;
+	background-color:#000;
+}
+
+.videoInfoBlock{
+  filter:alpha(opacity=00);
+  -moz-opacity:0.0;
+  -khtml-opacity: 0.0;
+  opacity: 0.0;
+}
+
+.videoInfoBack{
+  background-color:#000;
+	filter:alpha(opacity=80);
+  -moz-opacity:0.8;
+  -khtml-opacity: 0.8;
+  opacity: 0.8;
+}
+
+.videoTitle{
+  font-weight:bold;
+  font-size:12px;
+  position:absolute;
+  margin:10px 0px 0px 10px;
+}
+
+.viewVideoButton{
+  position:absolute;
+  margin-left:10px;
+  font-size:12px;
+}
+
+#videoViewOverlay{
+  display:none;
+  top:0px;
+  left:0px;
+  position:absolute;
+  z-index:800;
+  background-color:#000;
+	filter:alpha(opacity=80);
+  -moz-opacity:0.8;
+  -khtml-opacity: 0.8;
+  opacity: 0.8;
+}
+
+#videoBox{
+  position:absolute;
+  display:none;
+  background-color:#000;
+  padding:20px;
+  z-index:900;
+  width:800px;
+  height:460px;
+}
