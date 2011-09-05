@@ -1,0 +1,9 @@
+This is a jQuery plugin that creates a resizable full-browser Vimeo gallery.
+
+Usage:
+
+$('#container').vimeoGrid({
+  vimeoUsername : 'vimeo-username-here'
+});
+
+working example at http://mikefey.com/projects/vimeo_grid/
