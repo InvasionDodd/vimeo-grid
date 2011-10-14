@@ -6,4 +6,4 @@ $('#container').vimeoGrid({
   vimeoUsername : 'vimeo-username-here'
 });
 
-working example at http://projects.mikefey.com/projects/
+working example at http://projects.mikefey.com/vimeo_grid/
