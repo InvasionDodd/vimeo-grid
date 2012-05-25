@@ -1,8 +1,8 @@
-This is a jQuery plugin that creates a resizable full-browser video gallery created from a user's Vimeo stream.
+#This is a jQuery plugin that creates a resizable full-browser video gallery created from a user's Vimeo stream.
 
-Usage:
+##Usage:
 
-Requires 3 HTML elements:
+###Requires 3 HTML elements:
 
 ```
 <div id="videoThumbContainer"></div>
@@ -10,7 +10,7 @@ Requires 3 HTML elements:
 <div id="videoBox"></div>
 ```
 
-Then to initialize:
+###Then to initialize:
 
 ``` javascript
 $('#container').vimeoGrid({
@@ -18,4 +18,4 @@ $('#container').vimeoGrid({
 });
 ```
 
-View a working example at (http://projects.mikefey.com/vimeo_grid/)
+###View a working example at (http://projects.mikefey.com/vimeo_grid/)
