@@ -4,11 +4,11 @@ Usage:
 
 Requires 3 HTML elements:
 
-``
+```
 <div id="videoThumbContainer"></div>
 <div id="videoViewOverlay"></div>
 <div id="videoBox"></div>
-``
+```
 
 Then to initialize:
 
