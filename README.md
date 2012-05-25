@@ -1,6 +1,4 @@
-#This is a jQuery plugin that creates a resizable full-browser video gallery created from a user's Vimeo stream.
-
-##Usage:
+##This is a jQuery plugin that creates a resizable full-browser video gallery created from a user's Vimeo stream.
 
 ###Requires 3 HTML elements:
 
