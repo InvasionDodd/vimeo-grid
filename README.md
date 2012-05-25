@@ -18,4 +18,4 @@ $('#container').vimeoGrid({
 });
 ```
 
-working example at (http://projects.mikefey.com/vimeo_grid/[http://projects.mikefey.com/vimeo_grid/])
+View a working example at (http://projects.mikefey.com/vimeo_grid/[http://projects.mikefey.com/vimeo_grid/])
